@@ -1,0 +1,80 @@
+
+ body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+      height: 100vh;
+      background-color: #f1f1f1;
+    }
+.square {
+      background-color: #2ecc71;
+      width: 100px;
+      height: 100px;
+    }
+	
+	  body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+      height: 100vh;
+      background-color: #f1f1f1;
+    }
+
+    .circle {
+      background-color: #2ecc71;
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+    }
+
+
+.italian-flag {
+  display: flex;
+}
+.first-green {
+  height: 100px;
+  width: 60px;
+  background-color: green;
+}
+.white {
+  height: 100px;
+  width: 60px;
+  background-color: white;
+}
+.second-red {
+  height: 100px;
+  width: 60px;
+  background-color: red;
+}
+
+
+.costa-flag {
+  display: 
+}
+.first-blue{
+	height: 15px;
+	width: 150pxpx;
+	background-color:blue;
+}
+.first-white{
+	height: 15px;
+	width: 150pxpx;
+	background-color:white;
+}
+.red{
+	height: 40px;
+	width: 150pxpx;
+	background-color:red;
+}
+.second-white{
+	height: 15px;
+	width: 150px;
+	background-color:white;
+}
+.second-blue{
+	height: 15px;
+	width: 150pxpx;
+	background-color:blue;
+}
